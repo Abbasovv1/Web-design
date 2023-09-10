@@ -1,0 +1,78 @@
+
+ 
+
+/* body{
+    display: inline-block;
+} */
+
+
+body{
+    background-color: rgb(194, 182, 166);
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family:cursive;
+}
+
+
+.shopname{
+    font-size: 44px;
+    padding-top: 30px;
+    padding-left: 28px;
+    margin: 2px;
+}
+
+.shopname2{
+    font-size: 44px;
+    padding-left:150px ;
+    margin: 2px;
+   
+}
+
+.p-tag{
+    font-size: 30px;
+    display: inline-block;
+    padding-left:89px ;
+    margin: 2px;
+}
+
+
+.t-shirt{
+    font-size: 23px;
+    padding-left: 400px;
+    padding-top: 23px;
+    display: inline-block;
+
+   
+}
+
+.trousers{
+    font-size: 23px;
+    padding-left: 130px ;
+    padding-top:23px ;
+    display: inline-block;
+
+}
+
+
+.short{
+    font-size: 23px;
+    padding-left: 160px ;
+    padding-top:23px ;
+    display: inline-block;
+}
+
+.shoes{
+    font-size: 23px;
+    padding-left: 190px ;
+    padding-top:23px ;
+    display: inline-block;
+}
